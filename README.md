@@ -19,7 +19,7 @@ foto de arquitectura tomada de https://ghost.org/docs/architecture/
 
 ## lista de funcionalidades
 
-| **  Funcionalidad ** |      **Titulo   **     | **Descripción **                                                                                                                                                                                                                                                      |
+| **Funcionalidad** |      **Titulo**     | **Descripción**                                                                                                                                                                                                                                                      |
 |:--------------------:|:----------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        FU-001        |       Dashboard        | En el módulo administrador, se tiene un cuadro de mando que permite visualizar una gráfica, con miembros, miembros pagos, % apertura de  correos y accesos rápidos para ir a opciones como crear miembro, post, personalizar sitio, etc.                              |
 |        FU-002        |       View Site        | En el módulo administrador se puede visualizar el sitio dentro.                                                                                                                                                                                                       |
