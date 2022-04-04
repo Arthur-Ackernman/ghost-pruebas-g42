@@ -55,3 +55,9 @@ https://uniandes-my.sharepoint.com/:f:/g/personal/ca_castrov12_uniandes_edu_co/E
 
 ## Modelo GUI del sistema
 El siguiente se encuentra el [modelo GUI]( https://miro.com/welcomeonboard/NHg1b2pueWFkR1dtNFU4Y2FTeXJWSDljQzhsRWZLcFVCZjUxc[…]NTRPaklBWnwzNDU4NzY0NTIyNDI3NzE0Mzk0?invite_link_id=359166938225).
+
+## Modelo de dominio
+Se adjunta a continuacion el modelo UML
+
+![UML](UMLGhost.svg)
+
