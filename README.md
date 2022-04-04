@@ -40,3 +40,15 @@ foto de arquitectura tomada de https://ghost.org/docs/architecture/
 |        FU-017        | Configurar navegación  | En el módulo administrador, en la configuración, opción “Navigation”, configurar el menú navegación principal y secundaria, agregando, modificando, eliminando paginas                                                                                                |
 |        FU-018        |      Tema oscuro       | En el módulo administrador, en la parte inferior izquierda, permite activar el modo oscuro de la consola de administración.                                                                                                                                           |
 |        FU-019        |      Suscribirse       | Dentro del Site se permite a los usuarios suscribirse, para lo cual se deben registrar, y así se les enviara newsletter cuando se realice cualquier puplicación                                                                                                       |
+
+
+## Inventarios de pruebas 
+
+En el siguiente link se encunetra el formato para los escenarios por funcionalidad
+
+[escenarios por funcionalidad](https://uniandes-my.sharepoint.com/:x:/g/personal/ca_castrov12_uniandes_edu_co/EeO7COXi5JZBrN6Wp0Qjuh4BTMmiXzb-kEIqe9aNbwFzQw?e=mVKcCl).
+
+Y en el siguiente link se encuntra la carpeta de los videos para ingresar por medio del link en el formato de funcionalidad tambien se dan persmisos en estos 
+
+[Videos de los escenarios por funcionalidad](
+https://uniandes-my.sharepoint.com/:f:/g/personal/ca_castrov12_uniandes_edu_co/EgEhwG_33tBMviFvOtrBsXAB9pzWnsNgQQBwmu3ojdw2mA?e=24Xk1S).
