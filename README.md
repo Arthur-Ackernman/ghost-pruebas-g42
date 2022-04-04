@@ -52,3 +52,6 @@ Y en el siguiente link se encuntra la carpeta de los videos para ingresar por me
 
 [Videos de los escenarios por funcionalidad](
 https://uniandes-my.sharepoint.com/:f:/g/personal/ca_castrov12_uniandes_edu_co/EgEhwG_33tBMviFvOtrBsXAB9pzWnsNgQQBwmu3ojdw2mA?e=24Xk1S).
+
+## Modelo GUI del sistema
+[Link al modelo]( https://miro.com/welcomeonboard/NHg1b2pueWFkR1dtNFU4Y2FTeXJWSDljQzhsRWZLcFVCZjUxc[…]NTRPaklBWnwzNDU4NzY0NTIyNDI3NzE0Mzk0?invite_link_id=359166938225).
