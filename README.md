@@ -54,7 +54,7 @@ Y en el siguiente link se encuntra la carpeta de los videos para ingresar por me
 https://uniandes-my.sharepoint.com/:f:/g/personal/ca_castrov12_uniandes_edu_co/EgEhwG_33tBMviFvOtrBsXAB9pzWnsNgQQBwmu3ojdw2mA?e=24Xk1S).
 
 ## Modelo GUI del sistema
-El siguiente se encuentra el [modelo GUI]( https://miro.com/welcomeonboard/NHg1b2pueWFkR1dtNFU4Y2FTeXJWSDljQzhsRWZLcFVCZjUxc[…]NTRPaklBWnwzNDU4NzY0NTIyNDI3NzE0Mzk0?invite_link_id=359166938225).
+El siguiente se encuentra el [modelo GUI]( https://miro.com/app/board/uXjVO_ng2dg=/?invite_link_id=82857774840).
 
 ## Modelo de dominio
 Se adjunta a continuacion el modelo UML
